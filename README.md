@@ -53,3 +53,10 @@ The goal is to explore and understand core image processing techniques, starting
 ## 📚 Notes
 
 This repository is intended for educational purposes and personal exploration of core Computer Vision concepts.
+
+---
+
+## 📚 Bibliography
+
+- Computer Vision: Algorithms and Applications 2nd Edition (Richard Szeliski)
+
