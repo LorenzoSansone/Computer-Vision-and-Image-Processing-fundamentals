@@ -41,12 +41,11 @@ The goal is to explore and understand core image processing techniques, starting
 
 ## 🛠️ Technologies
 
-*(Update according to your stack)*
-
 - Python  
 - OpenCV  
 - NumPy  
-- Matplotlib  
+- Matplotlib
+- Jupiter Notebook
 
 ---
 
