@@ -58,5 +58,7 @@ This repository is intended for educational purposes and personal exploration of
 
 ## 📚 Bibliography
 
-- Computer Vision: Algorithms and Applications 2nd Edition (Richard Szeliski)
+- *Computer Vision: Algorithms and Applications 2nd Edition (Richard Szeliski)*
+- *OpenCV documentation* - https://docs.opencv.org/4.x/
+- *Matplotlib documentation* - https://matplotlib.org/stable/api/index
 
