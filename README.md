@@ -41,15 +41,23 @@ The goal is to explore and understand core image processing techniques, starting
 
 ## 🛠️ Technologies
 
-*(Update according to your stack)*
-
 - Python  
 - OpenCV  
 - NumPy  
-- Matplotlib  
+- Matplotlib
+- Jupiter Notebook
 
 ---
 
 ## 📚 Notes
 
 This repository is intended for educational purposes and personal exploration of core Computer Vision concepts.
+
+---
+
+## 📚 Bibliography
+
+- *Computer Vision: Algorithms and Applications 2nd Edition (Richard Szeliski)*
+- *OpenCV documentation* - https://docs.opencv.org/4.x/
+- *Matplotlib documentation* - https://matplotlib.org/stable/api/index
+
